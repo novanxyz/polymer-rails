@@ -23,7 +23,9 @@ Polymer 3.0 is out!
 * Use `2.0.x` versions of `polymer-rails` to work with Polymer versions `2.0.x`
 * Use `3.0.x` versions of `polymer-rails` to work with Polymer versions `3.0.x`
 
-1.0 release is not compatible with the 0.5 APIs. For guidance on migrating an existing 0.5 elements to the 1.0 APIs, see the [Migration guide](https://www.polymer-project.org/3.0/docs/migration.html).
+1.0 release is not compatible with the 0.5 APIs. For guidance on migrating an existing 0.5 elements to the 1.0 APIs, see the [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html).
+2.0 release is not compatible with the 0.5 APIs. For guidance on migrating an existing 0.5 elements to the 2.0 APIs, see the [Migration guide](https://www.polymer-project.org/2.0/docs/migration.html).
+3.0 release is not compatible with the 0.5 APIs. For guidance on migrating an existing 0.5 elements to the 3.0 APIs, see the [Migration guide](https://www.polymer-project.org/3.0/docs/migration.html).
 
 ## Installation
 
