@@ -1,4 +1,4 @@
-{{https://img.shields.io/badge/status-wip-red.svg}}
+!(https://img.shields.io/badge/status-wip-red.svg)
 
 # Polymer-Rails
 Want to get started with  [web components](http://www.w3.org/wiki/WebComponents/)? Want to bring them into your Rails app? Easily build your own and use web components that are built by community in your Ruby on Rails Application. Polymer-rails helps you to do this:
